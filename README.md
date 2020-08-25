@@ -28,7 +28,7 @@ Há um servidor de desenvolvimento, uma suite de testes com [jest](https://githu
 
 `npm run dev`
 
-- Depois escolha seu navegador de preferencia, acessando: 
+- Depois escolha seu navegador de preferência, acessando: 
 
 `http://localhost:3000`
 
