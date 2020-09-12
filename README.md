@@ -6,6 +6,10 @@ Um simulador de compra e venda de criptomoedas (Bitcoin e Brita), desenvolvido e
 
 Link do projeto: https://virtual-vallet-dfg27j0sz.vercel.app/login
 
+<p align="center">
+  <img alt="Logo do projeto" src="./docs/logo.png" />
+</p>
+
 ## Para começar :arrow_forward:
 
 - Para começar, você pode fazer o download do projeto. Ou clonar o projeto com o seguinte comando:
