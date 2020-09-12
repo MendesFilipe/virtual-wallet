@@ -7,7 +7,7 @@ Um simulador de compra e venda de criptomoedas (Bitcoin e Brita), desenvolvido e
 Link do projeto: https://virtual-vallet-dfg27j0sz.vercel.app/login
 
 <p align="center">
-  <img alt="Logo do projeto" src="./docs/logo.png" style="max-width: 50%;" />
+  <img alt="Logo do projeto" src="./docs/logo.png" style="max-width: 50%; width: 50%;" />
 </p>
 
 ## Para começar :arrow_forward:
