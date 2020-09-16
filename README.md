@@ -68,6 +68,6 @@ Para compilar a aplicação basta seguir os dois passos abaixo:
 - [ESLint](https://eslint.org/) 
 - [Storybook](https://github.com/storybookjs/storybook) 
 
-## Licença :page_with_curl:
+## Licença ⚖
 
 Esse projeto possui a licença **MIT**.
